@@ -468,3 +468,4 @@ c:/Users/IT/Desktop/UdemyCarBook/Presentation/Udemy.CarBook.WebApi/obj/Debug/net
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/Udemy.CarBook.WebApi.pdb
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/Udemy.CarBook.WebApi.genruntimeconfig.cache
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/ref/Udemy.CarBook.WebApi.dll
+/Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/Udemy.CarBook.WebApi.sourcelink.json

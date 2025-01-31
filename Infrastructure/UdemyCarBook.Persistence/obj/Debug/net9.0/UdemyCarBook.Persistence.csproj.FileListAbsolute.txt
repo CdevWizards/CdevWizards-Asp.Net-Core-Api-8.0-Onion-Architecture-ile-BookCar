@@ -76,3 +76,4 @@ c:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Deb
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/UdemyCarBook.Persistence.pdb
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/UdemyCarBook.Persistence.genruntimeconfig.cache
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/ref/UdemyCarBook.Persistence.dll
+/Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/UdemyCarBook.Persistence.sourcelink.json

@@ -42,3 +42,4 @@ c:/Users/IT/Desktop/UdemyCarBook/Core/UdemyCarBook.Domain/obj/Debug/net8.0/Udemy
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Domain/obj/Debug/net8.0/refint/UdemyCarBook.Domain.dll
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Domain/obj/Debug/net8.0/UdemyCarBook.Domain.pdb
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Domain/obj/Debug/net8.0/ref/UdemyCarBook.Domain.dll
+/Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Domain/obj/Debug/net8.0/UdemyCarBook.Domain.sourcelink.json

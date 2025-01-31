@@ -60,3 +60,4 @@ c:/Users/IT/Desktop/UdemyCarBook/Core/UdemyCarBook.Application/obj/Debug/net9.0/
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Application/obj/Debug/net9.0/refint/UdemyCarBook.Application.dll
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Application/obj/Debug/net9.0/UdemyCarBook.Application.pdb
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Application/obj/Debug/net9.0/ref/UdemyCarBook.Application.dll
+/Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Core/UdemyCarBook.Application/obj/Debug/net9.0/UdemyCarBook.Application.sourcelink.json
