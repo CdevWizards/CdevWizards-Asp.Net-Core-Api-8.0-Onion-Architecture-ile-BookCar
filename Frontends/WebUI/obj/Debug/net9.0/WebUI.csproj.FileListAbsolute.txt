@@ -150,3 +150,4 @@
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Frontends/WebUI/obj/Debug/net9.0/compressed/tlynftajcu-mbx99nqtla.gz
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Frontends/WebUI/obj/Debug/net9.0/compressed/5ov82nblq8-7dvirsxg20.gz
 /Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Frontends/WebUI/obj/Debug/net9.0/compressed/665pblfbym-oygc69a428.gz
+/Users/ahmetcanulusoy/Desktop/CdevWizards-Asp.Net-Core-Api-8.0-Onion-Architecture-ile-BookCar-main/Frontends/WebUI/obj/Debug/net9.0/WebUI.sourcelink.json
