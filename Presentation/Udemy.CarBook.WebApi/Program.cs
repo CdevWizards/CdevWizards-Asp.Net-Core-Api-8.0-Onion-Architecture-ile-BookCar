@@ -24,6 +24,8 @@ using UdemyCarBook.Application.Services.Mediator.Handlers.ServiceHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.ServiceHandlers;
 using UdemyCarBook.Application.SocialMedias.Mediator.Handlers.SocialMediaHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.SocialMediaHandlers;
+using UdemyCarBook.Application.Testimonials.Mediator.Handlers.TestimonialHandlers;
+using UdemyCarBook.Application.Features.Mediator.Handlers.TestimonialHandlers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -92,6 +94,12 @@ builder.Services.AddScoped<GetSocialMediaByIdQueryHandler>();
 builder.Services.AddScoped<CreateSocialMediaCommandHandler>();
 builder.Services.AddScoped<RemoveSocialMediaCommandHandler>();
 builder.Services.AddScoped<UpdateSocialMediaCommandHandler>();
+
+builder.Services.AddScoped<GetTestimonialQueryHandler>();
+builder.Services.AddScoped<GetTestimonialByIdQueryHandler>();
+builder.Services.AddScoped<CreateTestimonialCommandHandler>();
+builder.Services.AddScoped<RemoveTestimonialCommandHandler>();
+builder.Services.AddScoped<UpdateTestimonialCommandHandler>();
 
 
 
