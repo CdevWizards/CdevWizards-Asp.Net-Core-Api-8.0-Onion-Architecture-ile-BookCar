@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7zokC1Xc/B4=",
+  "dgSpecHash": "zxCyDopNw84=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj",
+  "projectFilePath": "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

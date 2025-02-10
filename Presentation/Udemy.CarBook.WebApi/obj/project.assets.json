@@ -2917,11 +2917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Presentation\\Udemy.CarBook.WebApi\\Udemy.CarBook.WebApi.csproj",
+      "projectUniqueName": "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Presentation\\Udemy.CarBook.WebApi\\Udemy.CarBook.WebApi.csproj",
       "projectName": "Udemy.CarBook.WebApi",
-      "projectPath": "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Presentation\\Udemy.CarBook.WebApi\\Udemy.CarBook.WebApi.csproj",
+      "projectPath": "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Presentation\\Udemy.CarBook.WebApi\\Udemy.CarBook.WebApi.csproj",
       "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Presentation\\Udemy.CarBook.WebApi\\obj\\",
+      "outputPath": "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Presentation\\Udemy.CarBook.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2942,8 +2942,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj": {
-              "projectPath": "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj"
+            "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj": {
+              "projectPath": "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj"
             }
           }
         }
