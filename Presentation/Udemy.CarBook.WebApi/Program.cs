@@ -30,6 +30,9 @@ using UdemyCarBook.Application.Authors.Mediator.Handlers.AuthorHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.AuthorHandlers;
 using UdemyCarBook.Application.Blogs.Mediator.Handlers.BlogHandlers;
 using UdemyCarBook.Application.Features.CQRS.Handlers.CategoryHandlers;
+using UdemyBlogBook.Application.Features.Mediator.Handlers.BlogHandlers;
+using UdemyCarBook.Application.Interfaces.BlogInterfaces;
+using UdemyCarBook.Persistence.Repositories.BlogRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +40,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<CarBookContext>();
 builder.Services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
 builder.Services.AddScoped(typeof(ICarRepository),typeof(CarRepository));
+builder.Services.AddScoped(typeof(IBlogRepository),typeof(BlogRepository));
+
 
 builder.Services.AddScoped<GetAboutQueryHandler>();
 builder.Services.AddScoped<GetAboutByIdQueryHandler>();
@@ -118,6 +123,12 @@ builder.Services.AddScoped<CreateCategoryCommandHandler>();
 builder.Services.AddScoped<RemoveCategoryCommandHandler>();
 builder.Services.AddScoped<UpdateCategoryCommandHandler>();
 
+builder.Services.AddScoped<GetBlogQueryHandler>();
+builder.Services.AddScoped<GetBlogByIdQueryHandler>();
+builder.Services.AddScoped<CreateBlogCommandHandler>();
+builder.Services.AddScoped<RemoveBlogCommandHandler>();
+builder.Services.AddScoped<UpdateBlogCommandHandler>();
+builder.Services.AddScoped<GetLast3BlogsWithAuthorsQueryHandler>();
 
 builder.Services.AddApplicationService(builder.Configuration);
 
