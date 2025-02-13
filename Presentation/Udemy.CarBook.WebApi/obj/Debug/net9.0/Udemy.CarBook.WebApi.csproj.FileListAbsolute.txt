@@ -588,3 +588,4 @@ c:\Users\IT\Desktop\UdemyCarBook\Presentation\Udemy.CarBook.WebApi\obj\Debug\net
 c:\Users\IT\Desktop\UdemyCarBook\Presentation\Udemy.CarBook.WebApi\obj\Debug\net9.0\Udemy.CarBook.WebApi.pdb
 C:\Users\IT\Desktop\UdemyCarBook\Presentation\Udemy.CarBook.WebApi\obj\Debug\net9.0\Udemy.CarBook.WebApi.genruntimeconfig.cache
 C:\Users\IT\Desktop\UdemyCarBook\Presentation\Udemy.CarBook.WebApi\obj\Debug\net9.0\ref\Udemy.CarBook.WebApi.dll
+c:\Users\IT\Desktop\UdemyCarBook\Presentation\Udemy.CarBook.WebApi\obj\Debug\net9.0\Udemy.CarBook.WebApi.sourcelink.json

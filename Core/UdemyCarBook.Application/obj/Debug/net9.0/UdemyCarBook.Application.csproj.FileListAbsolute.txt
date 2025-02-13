@@ -75,3 +75,4 @@ c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net9.0\
 c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net9.0\refint\UdemyCarBook.Application.dll
 c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net9.0\UdemyCarBook.Application.pdb
 c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net9.0\ref\UdemyCarBook.Application.dll
+c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net9.0\UdemyCarBook.Application.sourcelink.json

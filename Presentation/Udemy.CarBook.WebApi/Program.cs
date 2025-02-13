@@ -26,6 +26,10 @@ using UdemyCarBook.Application.SocialMedias.Mediator.Handlers.SocialMediaHandler
 using UdemyCarBook.Application.Features.Mediator.Handlers.SocialMediaHandlers;
 using UdemyCarBook.Application.Testimonials.Mediator.Handlers.TestimonialHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.TestimonialHandlers;
+using UdemyCarBook.Application.Authors.Mediator.Handlers.AuthorHandlers;
+using UdemyCarBook.Application.Features.Mediator.Handlers.AuthorHandlers;
+using UdemyCarBook.Application.Blogs.Mediator.Handlers.BlogHandlers;
+using UdemyCarBook.Application.Features.CQRS.Handlers.CategoryHandlers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -102,6 +106,17 @@ builder.Services.AddScoped<CreateTestimonialCommandHandler>();
 builder.Services.AddScoped<RemoveTestimonialCommandHandler>();
 builder.Services.AddScoped<UpdateTestimonialCommandHandler>();
 
+builder.Services.AddScoped<GetAuthorQueryHandler>();
+builder.Services.AddScoped<GetAuthorByIdQueryHandler>();
+builder.Services.AddScoped<CreateAuthorCommandHandler>();
+builder.Services.AddScoped<RemoveAuthorCommandHandler>();
+builder.Services.AddScoped<UpdateAuthorCommandHandler>();
+
+builder.Services.AddScoped<GetCategoryQueryHandler>();
+builder.Services.AddScoped<GetCategoryByIdQueryHandler>();
+builder.Services.AddScoped<CreateCategoryCommandHandler>();
+builder.Services.AddScoped<RemoveCategoryCommandHandler>();
+builder.Services.AddScoped<UpdateCategoryCommandHandler>();
 
 
 builder.Services.AddApplicationService(builder.Configuration);

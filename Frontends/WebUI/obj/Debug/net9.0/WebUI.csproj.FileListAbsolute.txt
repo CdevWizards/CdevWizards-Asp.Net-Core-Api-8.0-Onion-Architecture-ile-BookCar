@@ -313,3 +313,4 @@ c:\Users\IT\Desktop\UdemyCarBook\Frontends\WebUI\obj\Debug\net9.0\refint\WebUI.d
 c:\Users\IT\Desktop\UdemyCarBook\Frontends\WebUI\obj\Debug\net9.0\WebUI.pdb
 c:\Users\IT\Desktop\UdemyCarBook\Frontends\WebUI\obj\Debug\net9.0\WebUI.genruntimeconfig.cache
 c:\Users\IT\Desktop\UdemyCarBook\Frontends\WebUI\obj\Debug\net9.0\ref\WebUI.dll
+c:\Users\IT\Desktop\UdemyCarBook\Frontends\WebUI\obj\Debug\net9.0\WebUI.sourcelink.json

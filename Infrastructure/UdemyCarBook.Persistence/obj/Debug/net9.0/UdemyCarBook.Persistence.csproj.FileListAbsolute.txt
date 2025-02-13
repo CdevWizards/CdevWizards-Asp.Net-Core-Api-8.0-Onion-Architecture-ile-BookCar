@@ -95,3 +95,4 @@ c:\Users\IT\Desktop\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Deb
 c:\Users\IT\Desktop\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net9.0\UdemyCarBook.Persistence.pdb
 C:\Users\IT\Desktop\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net9.0\UdemyCarBook.Persistence.genruntimeconfig.cache
 C:\Users\IT\Desktop\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net9.0\ref\UdemyCarBook.Persistence.dll
+c:\Users\IT\Desktop\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net9.0\UdemyCarBook.Persistence.sourcelink.json

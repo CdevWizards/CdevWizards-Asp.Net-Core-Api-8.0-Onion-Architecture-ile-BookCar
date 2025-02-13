@@ -21,3 +21,4 @@ c:\Users\IT\Desktop\UdemyCarBook\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\Ude
 c:\Users\IT\Desktop\UdemyCarBook\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\refint\UdemyCarBook.Dto.dll
 c:\Users\IT\Desktop\UdemyCarBook\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.pdb
 c:\Users\IT\Desktop\UdemyCarBook\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\ref\UdemyCarBook.Dto.dll
+c:\Users\IT\Desktop\UdemyCarBook\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.sourcelink.json

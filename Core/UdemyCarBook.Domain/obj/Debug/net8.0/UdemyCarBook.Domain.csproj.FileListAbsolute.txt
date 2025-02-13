@@ -53,3 +53,4 @@ c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\Udemy
 c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\refint\UdemyCarBook.Domain.dll
 c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.pdb
 c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\ref\UdemyCarBook.Domain.dll
+c:\Users\IT\Desktop\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.sourcelink.json
