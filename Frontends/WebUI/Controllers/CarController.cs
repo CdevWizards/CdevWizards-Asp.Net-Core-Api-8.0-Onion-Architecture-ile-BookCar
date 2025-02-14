@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using UdemyCarBook.Dto.CarDtos;
+using UdemyCarBook.Dto.CarPricingDtos;
 
 namespace WebUI.Controllers
 {
@@ -25,13 +26,13 @@ namespace WebUI.Controllers
              // İStekte bulunmak için istemci oluşturduk.
             var client = _httpClientFactory.CreateClient();
             var responseMessage=await client.GetAsync
-            ("http://localhost:5204/api/Cars/GetCarWithBrand");
+            ("http://localhost:5204/api/CarPricings");
             if (responseMessage.IsSuccessStatusCode) // durum kodları 200-299
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 // dotnet add package Newtonsoft.Json
                 // using Newtonsoft.Json;
-                var values = JsonConvert.DeserializeObject<List<ResultCarWithBrandsDto>>(jsonData);
+                var values = JsonConvert.DeserializeObject<List<ResultCarPricingDto>>(jsonData);
                 return View(values);
         }
         return View();
