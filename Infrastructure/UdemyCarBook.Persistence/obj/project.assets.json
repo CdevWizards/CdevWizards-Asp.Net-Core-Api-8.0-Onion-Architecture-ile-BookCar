@@ -2463,8 +2463,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj": {
-              "projectPath": "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj"
+            "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj": {
+              "projectPath": "C:\\Users\\IT\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj"
             },
             "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {
               "projectPath": "c:\\Users\\IT\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj"

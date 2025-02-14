@@ -16,7 +16,8 @@ namespace WebUI.Controllers
         public  ActionResult Index()
         {
              // İStekte bulunmak için istemci oluşturduk.
-            
+        ViewBag.v1="Hizmetler";
+        ViewBag.v2="Hizmetlerimiz";
         return View();
     }
     }

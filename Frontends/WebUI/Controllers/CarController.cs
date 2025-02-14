@@ -20,6 +20,8 @@ namespace WebUI.Controllers
         }
         public async Task<ActionResult> Index()
         {
+          ViewBag.v1="Araçlarımız";
+          ViewBag.v2="Aracınızı Seçiniz";
              // İStekte bulunmak için istemci oluşturduk.
             var client = _httpClientFactory.CreateClient();
             var responseMessage=await client.GetAsync
